@@ -1,0 +1,105 @@
+*{
+    margin: 10px;
+    padding: 10px;
+
+}
+.header{
+    color: #FFFFFF;
+     justify-items: center; 
+    
+}
+
+.header-section{
+    background-image: url(Banner-image.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    border-radius: 16px;
+    background-size: cover;
+    padding: 10px;
+    margin:10px ;
+    width: 100% ;
+    height: 500px;
+}
+.header-section{
+    font-size: 30px;
+}
+.offer-section{
+    padding: 20px;
+}
+.off{
+    text-align: center;
+}
+.offer{
+    font-size: 50px;
+}
+
+.off h1,p{
+    color: #FF0000;
+}
+.off h2{
+    color: #070211;
+    width: bold;
+}
+
+.welcome-section{
+    background-image:url(Vectorrr.png);
+    display: flex;
+    background-repeat: repeat;
+    background-size: cover;
+    background-position: center;
+    border-radius: 15px;
+    padding: 20px;
+    margin:20px ;
+    justify-content: space-between;
+
+}
+.welcome  {
+
+padding: 20px;
+margin:20px ;
+}
+.image{
+    padding: 20px;
+    margin:20px ;
+      
+}
+.welcome p,h1{
+    color: #FFFFFF;
+}
+.welcome h1{
+    font-weight: bolder;
+    font-size: 50px;
+}
+.join{
+    color: #FFFFFF;
+    background-color: #070211;
+    border-radius: 5px;
+    border-style: none;
+}
+
+.color{
+    color: #FF0000;
+    font-weight: bold;
+}
+.information-section{
+    background-color: pink;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 15px;
+}
+.information{
+   text-align: center;
+}
+.text{
+    font-size: 30px;
+    font-weight: bold;
+    color: #070211;
+}
+.joinn{
+    background-color: #FF0000;
+    color: #FFFFFF;
+    border-radius: 5px;
+    border-style: none;
+}
+
+
