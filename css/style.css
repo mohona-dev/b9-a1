@@ -101,5 +101,22 @@ margin:20px ;
     border-radius: 5px;
     border-style: none;
 }
-
+.new-offer-contaner{
+    display: flex;
+    he
+}
+.new-offer h2{
+    color: #FF0000;
+}
+.new-offer h1{
+    color: black;
+    font-size: 40px;
+}
+.new-offer p{
+  color: #070211;  
+}
+.new-imgg{
+    
+    border-color: #FF0000;
+}
 
